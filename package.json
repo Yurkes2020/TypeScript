@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "eslint": "^8.35.0"
-  }
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurkes2020/TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yurkes2020/TypeScript/issues"
+  },
+  "homepage": "https://github.com/Yurkes2020/TypeScript#readme",
+  "description": ""
 }
